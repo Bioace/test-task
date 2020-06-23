@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dDVBWsS68zJtlvs5BE0je6AwEd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,7 +31,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -77,10 +81,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1591960856172" />
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1592905514406">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1592914807779">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592905514406" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592914807779" />
     <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1591966581572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -89,30 +93,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="564" y="261" width="261" height="205" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1592908001664" />
-    <state width="1323" height="142" key="GridCell.Tab.0.bottom" timestamp="1592907794637">
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom" timestamp="1592908416778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592907794637" />
-    <state width="1323" height="142" key="GridCell.Tab.0.center" timestamp="1592907794636">
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592908416778" />
+    <state width="1323" height="142" key="GridCell.Tab.0.center" timestamp="1592908416778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592907794636" />
-    <state width="1323" height="142" key="GridCell.Tab.0.left" timestamp="1592907794636">
+    <state width="1323" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592908416778" />
+    <state width="1323" height="142" key="GridCell.Tab.0.left" timestamp="1592908416777">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592907794636" />
-    <state width="1323" height="142" key="GridCell.Tab.0.right" timestamp="1592907794636">
+    <state width="1323" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592908416777" />
+    <state width="1323" height="142" key="GridCell.Tab.0.right" timestamp="1592908416778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592907794636" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1592750918768">
+    <state width="1323" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592908416778" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1592914055622">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592750918768" />
-    <state x="391" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1592804756387">
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592914055622" />
+    <state x="391" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1592914011751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592804756387" />
+    <state x="391" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592914011751" />
     <state x="269" y="183" width="1182" height="544" key="dock-window-1" timestamp="1591960914324">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -1,12 +1,22 @@
+package counters;
+
+import org.jsoup.nodes.Document;
+import splitters.HtmlWordSplitter;
+import splitters.WordSplitter;
+
 import java.util.HashMap;
 import java.util.Map;
 
 public class HtmlUniqueWordsCounter implements UniqueWordsCounter {
 
-    WordSplitter splitter = new HtmlWordSplitter();
+    WordSplitter splitter;
+
+    public HtmlUniqueWordsCounter(WordSplitter splitter) {
+        this.splitter = splitter;
+    }
 
     @Override
-    public Map<String, Integer> countUniqueWords(Object document) {
+    public Map<String, Integer> countUniqueWords(Document document) {
         Map<String, Integer> counterMap = new HashMap<>();
         String[] words = splitter.splitWords(document);
         for (String word : words) {

@@ -1,3 +1,5 @@
+package downloaders;
+
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -5,7 +7,7 @@ import java.io.IOException;
 
 public class HtmlFileDownloader implements FileDownloader {
     @Override
-    public Object FileDownload(String from) {
+    public Document fileDownload(String from) {
         Document document = null;
         try {
             document = Jsoup.connect(from).get();

@@ -1,16 +1,16 @@
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
+import counters.HtmlUniqueWordsCounter;
+import downloaders.HtmlFileDownloader;
+import filesavers.HtmlFileSaver;
+import splitters.HtmlWordSplitter;
 
-import java.io.*;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.util.HashMap;
-import java.util.Map;
+
 
 public class Main {
 
     public static void main(String[] args) {
-      HtmlUniqueWordsHandler handler = new HtmlUniqueWordsHandler();
+      HtmlUniqueWordsHandler handler = new HtmlUniqueWordsHandler(new HtmlFileDownloader(),
+              new HtmlFileSaver(),
+              new HtmlUniqueWordsCounter(new HtmlWordSplitter()));
       handler.saveAndCount("https://pikabu.ru/","pikabu");
     }
 }
