@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4188768f-216c-4bbd-8064-9657cc7662bd" name="Default Changelist" comment="" />
+    <list default="true" id="4188768f-216c-4bbd-8064-9657cc7662bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pikabu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pikabu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HtmlUniqueWordsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HtmlUniqueWordsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/counters/HtmlUniqueWordsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/counters/HtmlUniqueWordsCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/downloaders/FileDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloaders/FileDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/downloaders/HtmlFileDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/downloaders/HtmlFileDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filesavers/FileSaver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/filesavers/FileSaver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filesavers/HtmlFileSaver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/filesavers/HtmlFileSaver.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,10 +92,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1591960856172" />
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1592914807779">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1593175874599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592914807779" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593175874599" />
     <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1591966581572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -93,26 +104,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="564" y="261" width="261" height="205" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1592908001664" />
-    <state width="1323" height="142" key="GridCell.Tab.0.bottom" timestamp="1592908416778">
+    <state width="1323" height="198" key="GridCell.Tab.0.bottom" timestamp="1593180726145">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592908416778" />
-    <state width="1323" height="142" key="GridCell.Tab.0.center" timestamp="1592908416778">
+    <state width="1323" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593180726145" />
+    <state width="1323" height="198" key="GridCell.Tab.0.center" timestamp="1593180726144">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592908416778" />
-    <state width="1323" height="142" key="GridCell.Tab.0.left" timestamp="1592908416777">
+    <state width="1323" height="198" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593180726144" />
+    <state width="1323" height="198" key="GridCell.Tab.0.left" timestamp="1593180726144">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592908416777" />
-    <state width="1323" height="142" key="GridCell.Tab.0.right" timestamp="1592908416778">
+    <state width="1323" height="198" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593180726144" />
+    <state width="1323" height="198" key="GridCell.Tab.0.right" timestamp="1593180726144">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592908416778" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1592914055622">
+    <state width="1323" height="198" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593180726144" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1592977285206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592914055622" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592977285206" />
     <state x="391" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1592914011751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -125,10 +136,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="99" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592828433542" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1591966703963">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1593174845687">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591966703963" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1593174845687" />
     <state x="513" y="157" key="svn.repositoryBrowser" timestamp="1592907895480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
